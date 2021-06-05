@@ -1,0 +1,3 @@
+client num 1:l'id du client:15,Nom:ZAHIRI,Prenom:youness,cin:82743,l'adresse:tanger,numero de telephone:0623760912
+client num 2:l'id du client:23,Nom:RAFII,Prenom:salwa,cin:25884,l'adresse:fés,numero de telephone:0512653498
+client num 3:l'id du client:7,Nom:LAALAMI,Prenom:ilyass,cin:14789,l'adresse:agadir,numero de telephone:071267439845

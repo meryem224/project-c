@@ -1,0 +1,4 @@
+l'id voiture:14,marque:Ford,Nom:Ford x6,couleur:noire,nombre de place:4,le prix d'un jour:150$,en location:non
+l'id voiture:11,marque:mercedes,Nom:Citan,couleur:blanc,nombre de place:5,prix d'un jour:300$,en location:non
+l'id voiture:10,marque:Fiat Panda,Nom:Fiat ,couleur:Gris,nombre de place:5,le prix d'un jour:100$,en location:oui
+l'id voiture:12,marque:Kia,Nom:Kia Picanto,couleur:marron,nombre de place:4,le prix d'un jour:200$,en location:non
